@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "421941232597",
+    "firebase_url": "https://fir-l-f82f4.firebaseio.com",
+    "project_id": "fir-l-f82f4",
+    "storage_bucket": "fir-l-f82f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421941232597:android:6cf337ce4fbd18de",
+        "android_client_info": {
+          "package_name": "com.pinedo.lisviewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421941232597-m1ik3dcahl5r88943m6b5g7rd9ugijs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCSqws5S3suKoU32xb21eFeZYIV7QLdaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
